@@ -1,0 +1,6 @@
+.box-set{background: gray; height: 400px; position: relative; text-align: center;}
+.box{background: #2db34a;height: 80px;width: 80px;border:2px solid black; position:relative;}
+.box1{top: 20px;}
+.box2{left: 40px;}
+.box3{bottom: -10px;right: 20px;}
+.box4{bottom: 0;}
